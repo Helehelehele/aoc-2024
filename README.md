@@ -7,3 +7,4 @@ Another year, another wheel of torture.
 | Day | Part 1                                                             | Part 2                                                             |
 | --- | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
 | 1   | ![Elixir, Rust, Go](https://skillicons.dev/icons?i=elixir,rust,go) | ![Elixir, Rust, Go](https://skillicons.dev/icons?i=elixir,rust,go) |
+| 2   | ![Elixir, Rust, Go](https://skillicons.dev/icons?i=elixir,rust,go) | ![Elixir, Rust, Go](https://skillicons.dev/icons?i=elixir,rust,go) |
