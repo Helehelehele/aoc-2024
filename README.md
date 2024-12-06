@@ -11,3 +11,4 @@ Another year, another wheel of torture.
 | 3   | ![Elixir, Rust, Go](https://skillicons.dev/icons?i=elixir,rust,go) | ![Elixir, Rust, Go](https://skillicons.dev/icons?i=elixir,rust,go) |
 | 4   | ![Elixir, Rust, Go](https://skillicons.dev/icons?i=elixir,rust,go) | ![Elixir, Rust, Go](https://skillicons.dev/icons?i=elixir,rust,go) |
 | 5   | ![Elixir, Rust, Go](https://skillicons.dev/icons?i=elixir,rust,go) | ![Elixir, Rust, Go](https://skillicons.dev/icons?i=elixir,rust,go) |
+| 6   | ![Elixir, Rust, Go](https://skillicons.dev/icons?i=elixir,rust,go) | ![Elixir, Rust, Go](https://skillicons.dev/icons?i=elixir,rust,go) |
